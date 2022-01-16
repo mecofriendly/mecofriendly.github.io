@@ -1,0 +1,233 @@
+
+body{
+  background-color: #C4CDBE;
+  margin: 0;
+  font-family: arial;
+  width: 100%;
+  height: 100%;
+  }
+
+.topnav {
+  overflow: hidden;
+  background-color: #90BB86;
+}
+
+.topnav a {
+  float: left;
+  margin-left: 15%;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px 24px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.topnav a:hover {
+  color: #8D8C8B;
+}
+
+.topnav .active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+Img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.indexpictures {
+  margin-left: 12.5%;
+}
+.column1 {
+    float: left;
+    margin-top: 9%;
+    margin-left: 2%;
+    width: 40%;
+    padding: 0px;
+    position: relative;
+}
+
+.indextext1 {
+    position: absolute;
+    margin-top: 28.5%;
+    margin-left: 17%;
+    color: white;
+    font-size: 30px;
+}
+
+.indextext2 {
+    position: absolute;
+    Margin-top: 28.5%;
+    Margin-left: 39%;
+    Color: white;
+    font-size: 30px;
+}
+
+
+.column2 {
+    float: left;
+    margin-top: 2%;
+    margin-left: 15.5%;
+    width: 13.5%;
+    height: 25%;
+    padding: 0px;
+    position: relative;
+}
+
+.column3 {
+    float: left;
+    margin-top: 7%;
+    margin-left: 15.5%;
+    width: 13.5%;
+    height: 25%;
+    padding: 0px;
+    position: relative;
+}
+
+.column4 {
+    float: left;
+    margin-top: 7%;
+    margin-left: 15.5%;
+    width: 13.5%;
+    height: 25%;
+    padding: 0px;
+}
+
+.textshop {
+  display: none;
+  text-align: center;
+}
+
+.imgshop:hover + .textshop {
+  display: block;
+}
+
+.price {
+    position: absolute;
+    text-align: center;
+    margin: 230px 200px;
+    color: white;
+}
+
+.price2 {
+    position: absolute;
+    text-align: center;
+    margin: 245px 445px;
+    color: white;
+}
+
+.textcontact {
+    text-align: left;
+    line-height: 14px;
+    margin: 45px 70px;
+}
+
+
+.pictextabout{
+    margin-top: 3%;
+    margin-left: 11%;
+    line-height: 1px;
+}
+
+.textabout {
+  margin-top: 0%;
+  margin-left: 54%;
+  text-align: left;
+  line-height: 1px;
+}
+
+.textabout2{
+  margin-top: 3.5%;
+  line-height: 3px;
+}
+
+.button3 {
+  background-color: #90BB86;
+  border: 1%;
+  border-color: black;
+  color: white;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 9%;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.textabout3{
+  margin-top: 3.5%;
+  line-height: 3px;
+}
+
+.shopring {
+    margin-top: 5%;
+    margin-left: 15%;
+    line-height: 1px;
+}
+
+.textshopring {
+  margin-top: 8%;
+  margin-left: 15%;
+  text-align: center;
+}
+
+.textshopring3{
+  text-align: left;
+  margin-left: 41.5%;
+  margin-top: 8%;
+  line-height: 52px;
+}
+
+.textshopring2 {
+  text-align: center;
+  margin-top: 8%;
+  line-height: 5px;
+    margin-left: 18.5%;
+}
+
+.textshopring2 h1 {
+  font-size: 21px;
+  line-height: 20px;
+}
+
+.button {
+  background-color: #90BB86;
+  border: 1%;
+  border-color: black;
+  color: white;
+  padding: 15px 37px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 2%;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.table, th, td{
+    margin-top: 1%;
+    border: 1px solid black;
+    margin-left: 54.5%;
+}
+
+.tablebutton table{
+  display: none;
+}
+
+.button2 {
+  margin-top: 2%;
+  background-color: #90BB86;
+  border: 1%;
+  border-color: black;
+  color: white;
+  padding: 5px 37px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+
+}
